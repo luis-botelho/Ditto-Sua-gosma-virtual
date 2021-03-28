@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#ditto{
+    margin-top: 80px;
+    text-align:center;
+    cursor: pointer;
+}
